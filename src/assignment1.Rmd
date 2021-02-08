@@ -1,0 +1,19 @@
+---
+title: "Assignment 1"
+author: "Emiliano Espinoza"
+date: "2/8/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Add one paragraph that describes why you are taking this course
+
+I'm taking this course to continue my learning within the data science discipline from the foundations of ESM 206. Within the BREN program I'm pursuing specializations with CP and CMRM, and continuing the framework of the data science focus even though it's technically not a focus any longer. I'm hoping to pursue a Ph.D after this and I'm very much grateful that this program allows me the opporutnity to develop a data science foundation to enter into a PhD program with, in hopes of researching and working with ecosystem conservation management strategies in repsonse to the increasing climate change. 
+
+
+#Add one paragraph that describes your data science background
+
+I don't have a data science background previous to this course other than Allison's ESM 206 course. However, if you include working with excel as a data science background then I would restate that my background would consist of an average background a student would encounter with organizing data within a scientific discipline. 
